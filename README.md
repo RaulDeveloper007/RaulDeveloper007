@@ -1,0 +1,4 @@
+- 👋 Olá, me chamo Raul e sou graduando em análise e desenvolvimento de sistemas.
+- 👀 Estou interessado em praticar códigos e buscar novos conhecimentos.
+- 🌱 Atualmente, procuro me tornar uma pessoa desenvolvedora Python full stack.
+---> www.rauldeveloper.com.br
